@@ -1,0 +1,1 @@
+## chain của bài này khá dài, đây là 5 bài gộp lại trong 1 write up.
